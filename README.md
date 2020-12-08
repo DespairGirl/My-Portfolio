@@ -2,7 +2,7 @@
 > This is a multipage website that will host all the Projects I complete. Right now, not full website but skeleton. Will update as time passes
 
 ## Live URL
-[Mariah Truttling](https://despairgirl.github.io/homework1/)
+[Mariah Truttling](https://despairgirl.github.io/My-Portfolio/)
 
 
 >Through this project, I learned how to utilize Bootstrap. It turns out to be a quick and useful way to start a webpage.
