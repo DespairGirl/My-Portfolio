@@ -5,7 +5,7 @@
 [Mariah Truttling](https://despairgirl.github.io/My-Portfolio/)
 
 
->Through this project, I learned how to utilize Bootstrap. It turns out to be a quick and useful way to start a webpage.
+>Through this project, I learned how to utilize Bootstrap. It turns out to be a quick and useful way to start a webpage. Also I learned how to create a responsive website. Meaning if they window changes from desktop, to mobile, to whatever, the website will smoothly reorder to fit the screen and present the information in the best possible way.
 
 ![My Portfolio Homepage](Portsnap.png)
 
